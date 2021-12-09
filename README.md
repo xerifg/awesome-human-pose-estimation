@@ -54,7 +54,8 @@ Feedback and contributions are welcome!
   - [Others](#others)
 
 ## Basics
-- [pose_related_human_knowledge](https://github.com/wangzheallen/pose_related_human_knowledge)
+- [summary of human pose estimation（chinese知乎）](https://jishuin.proginn.com/p/763bfbd299d2)
+- [Another one](https://blog.csdn.net/qq_42722197/article/details/119013441)
 
 ## Papers
 
@@ -118,7 +119,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Pose Neural Fabrics Search](https://arxiv.org/abs/1909.07068)  - [[CODE]](https://github.com/yangsenius/PoseNFS) - Sen Yang, Wankou Yang, Zhen Cui (Arxiv 2019)
 - [Anchor Loss: Modulating Loss Scale based on Prediction Difficulty](https://arxiv.org/pdf/1909.11155.pdf)  - Serim Ryou, Seong-Gyun Jeong, Pietro Perona (ICCV 2019)
 - [Single-Network Whole-Body Pose Estimation](https://arxiv.org/pdf/1909.13423.pdf) - [[CODE]](https://github.com/CMU-Perceptual-Computing-Lab/openpose_train)  - Gines Hidalgo, Yaadhav Raaj, Haroon Idrees, Donglai Xiang, Hanbyul Joo, Tomas Simon, Yaser Sheikh (ICCV 2019)
-- [The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation](https://arxiv.org/abs/1911.07524)   - Junjie Huang, Zheng Zhu, Feng Guo, Guan Huang (Arxiv 2019)
+- [The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation](https://arxiv.org/abs/1911.07524) -[CODE](https://github.com/HuangJunJie2017/UDP-Pose)  - Junjie Huang, Zheng Zhu, Feng Guo, Guan Huang (Arxiv 2019)
 - [DirectPose: Direct End-to-End Multi-Person Pose Estimation](https://arxiv.org/pdf/1911.07451.pdf)   - Zhi Tian, Hao Chen, Chunhua Shen (Arxiv 2019)
 - [The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation](https://arxiv.org/abs/1911.07524)  - Junjie Huang, Zheng Zhu, Feng Guo, Guan Huang (ICCV 2019)
 - [TRB: A Novel Triplet Representation for Understanding 2D Human Body](https://arxiv.org/abs/1910.11535) - [[Data]](https://github.com/kennymckormick/Triplet-Representation-of-human-Body)  - Haodong Duan, KwanYee Lin, Sheng Jin, Wentao Liu, Chen Qian, Wanli Ouyang (ICCV 2019)
@@ -647,8 +648,12 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 - [3D HUMANS-CVPR 2018](https://project.inria.fr/humans2018/)
 - [3D HUMANS-CVPR 2019](https://sites.google.com/view/humans3d/3d-humans-workshop)
 
+## Home pages
+
+* [Ye Yuan](https://www.ye-yuan.com/)
 
 ## Blog posts
+
 - [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
 - [Deep learning for human pose estimation](https://www.slideshare.net/plutoyang/mmlab-seminar-2016-deep-learning-for-human-pose-estimation)
 - [Deep Learning based Human Pose Estimation using OpenCV ( C++ / Python )](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)
@@ -697,7 +702,6 @@ Yosuke Ikegami,Yoshihiko Nakamura (Arxiv 2020)
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
 
 
 
